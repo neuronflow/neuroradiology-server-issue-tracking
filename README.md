@@ -7,6 +7,9 @@ I created a slack channel to coordinate the usage of the new neuroradiology serv
 For the moment we will track issues with the server on GitHub:
 https://github.com/neuronflow/neuroradiology-server-issue-tracking
 
+Also have a look at the server rules:
+https://github.com/neuronflow/neuroradiology-server-issue-tracking/blob/main/rules.md#server-rules
+
 This should help us ensure that no issues are forgotten.
 
 
