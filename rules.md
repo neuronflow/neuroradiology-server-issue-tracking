@@ -4,6 +4,7 @@ the server rules are defined in a strictly democractic procedure by the server a
 ## issue tracking
 Issues are reported using this GitHub's repository issue tracking system:
 https://github.com/neuronflow/neuroradiology-server-issue-tracking/issues
+
 This includes issues, with these rules.
 
 ## no students
