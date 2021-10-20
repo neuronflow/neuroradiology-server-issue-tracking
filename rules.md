@@ -1,4 +1,6 @@
-# server rules (strictly democratic)
+# server rules
+the server rules are defined in a strictly democractic procedure by the server administration.
+
 ## issue tracking
 Issues are reported using this GitHub's repository issue tracking system. This includes issues, with these rules.
 
