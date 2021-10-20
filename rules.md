@@ -1,4 +1,4 @@
-# server rules
+# server rules (strictly democratic)
 ## issue tracking
 Issues are reported using this GitHub's repository issue tracking system. This includes issues, with these rules.
 
